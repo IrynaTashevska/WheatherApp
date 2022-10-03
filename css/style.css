@@ -1,0 +1,69 @@
+.container {
+    display: block;
+    text-align: center;
+    width: 800px;
+    height: auto;
+    padding: 30px;
+    border-radius: 8px;
+    border: 1px solid gray;
+    background: rgb(192, 238, 101) no-repeat center center fixed;
+    background-size: cover;
+}
+.temperature {
+    text-align: left;
+    color: rgb(28, 67, 135);
+    font-size: 14px;
+    margin-top: 25px;
+    padding: auto;
+    
+}
+
+.city {
+    text-align: center;
+    color: rgb(28, 67, 135);
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.img {
+    border: blue;
+    border-radius: 8px;
+}
+
+.date {
+    text-align: center;
+    color: rgb(28, 67, 135);
+    font-size: 15px;
+    margin-top: 25px;
+}
+.week {
+    margin-top: 20px;
+}
+.prognoz {
+    padding-top: 15px avto;
+}
+
+.card-day {
+    text-align: center;
+    color: rgb(28, 67, 135);
+    font-size: 11px;
+    background: rgba(42, 180, 222, 0.5);
+}
+.card-title {
+    text-align: center;
+    color: rgb(4, 15, 32);
+    font-size: 10px;
+    
+    
+}
+
+
+h2, h6, p {
+    font-family: 'Lora', serif;
+    color: red;
+}
+
+ul {
+    list-style-type: none; 
+}
