@@ -67,3 +67,7 @@ h2, h6, p {
 ul {
     list-style-type: none; 
 }
+
+footer {
+    text-align: center; 
+}
